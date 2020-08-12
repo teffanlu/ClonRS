@@ -1,0 +1,8 @@
+# Node
+node_modules
+
+# carpeta de cargas
+src/public/upload
+
+# Variables de entorno
+.env
